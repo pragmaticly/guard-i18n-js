@@ -1,0 +1,3 @@
+guard 'i18n-js' do
+  watch( %r{config/locales/.+\.yml} )
+end
