@@ -1,7 +1,9 @@
 # Guard::I18nJs
 
-i18n-js guard runs the i18n-js exporter to generate the new
-translations js when needed
+[i18n-js](https://github.com/fnando/i18n-js) is a small library 
+to provide the I18n translations on the Javascript. guard-i18n-js 
+runs the i18n-js exporter to generate the new translations js 
+when needed.
 
 - Compatible with i18n-js 3.0.0.rc*
 - Tested on Ruby 1.8.7, 1.9.2 & 1.9.3
